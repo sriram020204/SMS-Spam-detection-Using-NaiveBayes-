@@ -14,6 +14,6 @@ This is a basic spam detection model using Natural Language Processing (NLP) tec
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/spam-detector.git
-cd spam-detector
+git clone https://github.com/sriram020204/SMS-Spam-detection-Using-NaiveBayes-.git
+cd SMS-Spam-detection-Using-NaiveBayes-
 pip install -r requirements.txt
