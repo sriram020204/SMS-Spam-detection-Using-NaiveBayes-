@@ -1,4 +1,4 @@
-# Spam Message Classifier 📨
+# Spam Message Detection 📨
 
 This is a basic spam detection model using Natural Language Processing (NLP) techniques and a Naive Bayes classifier. The model classifies text messages as either **ham (not spam)** or **spam**.
 
